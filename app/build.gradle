@@ -27,8 +27,8 @@ android {
         }
     }
     buildTypes.each {
-        it.buildConfigField 'String', 'The_Application_Key', "\"ae95e70e05a34e9a638fe18207f6cfef\""
-        it.buildConfigField 'String', 'The_Application_ID', "\"3ea8da8c\""
+        it.buildConfigField 'String', 'The_Application_Key', "\"The_Application_Key\""
+        it.buildConfigField 'String', 'The_Application_ID', "\"The_Application_ID\""
 
     }
     repositories {
