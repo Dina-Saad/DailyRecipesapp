@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "483196441777",
+    "firebase_url": "https://dailyrecipesapp.firebaseio.com",
+    "project_id": "dailyrecipesapp",
+    "storage_bucket": "dailyrecipesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483196441777:android:5cf22f40dd59717a",
+        "android_client_info": {
+          "package_name": "com.example.dinasaad.dailyrecipesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483196441777-qfffgjaouoainerd5ul728qholo21okd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dinasaad.dailyrecipesapp",
+            "certificate_hash": "90240e8875c903b31e799cb47979bc6117242fdf"
+          }
+        },
+        {
+          "client_id": "483196441777-8ppb1msqgmo2cm9t5rc76dmjjpvnqq0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRD7wE59CFRCJU2TwYd1seac6tKqhh9YI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483196441777-8ppb1msqgmo2cm9t5rc76dmjjpvnqq0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Daily Recipes</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="cardview_Image">The Recipe Image in the cardView.</string>
+    <string name="favourite_button">The Favourite button add/delete the recipe to/from the user favourite recipes.</string>
+    <string name="app_logo">The App logo image</string>
+    <string name="recipeImage_list">The Recipe Image in the recipes list.</string>
+    <string name="nointernet_image">this image appear only if there is no interent connection.</string>
+    <string name="direction_button">View Directions</string>
+    <string name="tryagain_button">Try Again</string>
+    <string name="no_internet_text">No internet connection</string>
+    <string name="no_favourite_recipe">No Favourite Recipes</string>
+    <string name="error_message">An error occurred, Please try again later.</string>
+    <string name="noresults_message">No Results Found, Please try again.</string>
+    <string name="failed_load_data">Failed to asynchronously load data.</string>
+    <string name="hour_text">Hour</string>
+    <string name="minutes_text">Minutes</string>
+    <string name="stream_error">Error closing stream</string>
+    <string name="error">Error</string>
+</resources>
